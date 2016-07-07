@@ -1,11 +1,6 @@
-<<<<<<< 713f83ebb185f09ae86169db0f21c1462ac886cb
-# api_rails_5
-API Application in Rails 5
-=======
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+API Application in Rails 5
 
 Things you may want to cover:
 
@@ -26,4 +21,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
->>>>>>> Init commit
